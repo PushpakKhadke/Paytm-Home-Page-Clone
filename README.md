@@ -15,4 +15,5 @@ Tools : `VS Code`
 
 ### Pc:
 
-<img src="./output.png" alt="Output">
+<a href="https://spectacular-clafoutis-21474f.netlify.app/"><img src="./Output/Output1.png" alt="Output"></a>
+
